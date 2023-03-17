@@ -1,0 +1,17 @@
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\bin\Debug\net6.0-windows\Form Rastgele.exe
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\bin\Debug\net6.0-windows\Form Rastgele.deps.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\bin\Debug\net6.0-windows\Form Rastgele.runtimeconfig.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\bin\Debug\net6.0-windows\Form Rastgele.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\bin\Debug\net6.0-windows\Form Rastgele.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.csproj.AssemblyReference.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form_Rastgele.Form1.resources
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.csproj.GenerateResource.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.AssemblyInfoInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.AssemblyInfo.cs
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.csproj.CoreCompileInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\refint\Form Rastgele.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\Form Rastgele.genruntimeconfig.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Form Rastgele\Form Rastgele\obj\Debug\net6.0-windows\ref\Form Rastgele.dll
